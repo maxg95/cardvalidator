@@ -13,11 +13,12 @@ To build the server binary, execute the following command:
 make build/api
 
 ## Docker
-![Images](https://drive.google.com/drive/folders/1o6SjALp6WVfXzCy8CqL9uthHcem_BW2A?usp=share_link)
+https://drive.google.com/drive/folders/1o6SjALp6WVfXzCy8CqL9uthHcem_BW2A?usp=share_link
 
 ## Dependencies
 
 github.com/joeljunstrom/go-luhn - Package for Luhn algorithm
+
 github.com/julienschmidt/httprouter - HTTP request router
 
 ## Configuration
